@@ -73,11 +73,12 @@ The **Automated Vite Project Backup Script** is a comprehensive tool that:
 
 1. **Clone the Repository:**
 
-       git clone https://github.com/yourusername/automated-vite-backup.git
+       git clone https://github.com/uluutku/ViteBacker.git
+
 
 2. **Navigate to the Project Directory:**
 
-       cd automated-vite-backup
+       cd ViteBacker
 
 3. **Ensure Node.js is Installed:**  
    Confirm Node.js is installed by running:
@@ -88,7 +89,7 @@ The **Automated Vite Project Backup Script** is a comprehensive tool that:
 
 4. **(Optional) Make the Script Executable on Unix:**  
 
-       chmod +x backup_script.js
+       chmod +x ViteBacker.js
 
 ---
 
@@ -210,11 +211,3 @@ Contributions to the project are welcome! Follow these steps to contribute:
 ## License
 
 This project is released under the MIT License. See the LICENSE file for more details.
-
----
-
-## Contact & Support
-
-For any questions or issues, please open an issue on the GitHub repository or contact the project maintainer at your-email@example.com.
-
-Thank you for using the **Automated Vite Project Backup Script** and for contributing to its ongoing development!
